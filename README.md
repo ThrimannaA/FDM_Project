@@ -1,5 +1,4 @@
-FDM_Project
-An intelligent software solution to predict automobile loan defaulting.
+FDM_Project - An intelligent software solution to predict automobile loan defaulting.
 
 This project was developed as part of the 3rd Year 1st semester project for the Fundamentals of Data Mining module in the BSc.(Hons) Information Technology Specializing in Data Science.
 
