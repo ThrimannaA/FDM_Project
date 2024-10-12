@@ -1,1 +1,1 @@
-# AutoMobile -Loan prediction System
+# Developed a user-friendly AutoMobile -Loan prediction System that utilizes ML algorithms to assess loan applications by predicting the risk of default, incorporating data preprocessing, feature selection, and classification techniques. This allows loan approvers to enter borrower information and receive an automated prediction on whether the loan should be approved or rejected.
